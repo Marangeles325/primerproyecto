@@ -1,0 +1,19 @@
+
+
+p {
+    color: blue;
+    font-size: 24px;
+}
+
+.tem{
+    color: pink;
+    font-weight: bold;
+}
+#apellido{
+    color: blue;
+
+}
+
+img {
+    width: 400px;
+}
